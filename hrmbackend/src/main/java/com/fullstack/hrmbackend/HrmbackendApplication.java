@@ -1,0 +1,13 @@
+package com.fullstack.hrmbackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HrmbackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HrmbackendApplication.class, args);
+	}
+
+}
